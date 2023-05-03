@@ -1,0 +1,8 @@
+22:51:28.089 [TestNG] INFO  resources.Base - navigated to url
+22:51:35.010 [TestNG] INFO  resources.Base - this is home page test case
+22:55:48.944 [TestNG] INFO  resources.Base - Driver is initilized
+22:55:50.231 [TestNG] INFO  resources.Base - navigated to url
+22:55:57.686 [TestNG] INFO  resources.Base - navigationbartitle
+22:55:57.687 [TestNG] INFO  resources.Base - obejct is present
+22:55:57.687 [TestNG] ERROR resources.Base - object is not present
+22:55:59.233 [TestNG] INFO  resources.Base - this is home page test case

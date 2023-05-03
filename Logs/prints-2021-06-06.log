@@ -1,0 +1,8 @@
+12:28:48.341 [main] INFO  resources.Base - this is home page test case
+12:28:53.950 [main] INFO  resources.Base - this is home page test case
+16:30:40.719 [main] INFO  resources.Base - Driver is initilized
+16:30:41.982 [main] INFO  resources.Base - navigated to url
+16:31:01.970 [main] INFO  resources.Base - navigationbartitle
+16:31:01.972 [main] INFO  resources.Base - obejct is present
+16:31:01.972 [main] ERROR resources.Base - object is not present
+16:31:15.200 [main] INFO  resources.Base - this is home page test case
